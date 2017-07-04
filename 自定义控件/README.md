@@ -42,7 +42,7 @@
 
 ---
 
-**标签云 **:https://github.com/kingideayou/TagCloudView
+**标签云**:https://github.com/kingideayou/TagCloudView
 
 ---
 
