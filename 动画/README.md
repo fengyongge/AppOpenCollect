@@ -16,13 +16,13 @@
 
 ---
 
-**FloatingActionsMenu **:https://github.com/futuresimple/android-floating-action-button
+**FloatingActionsMenu**:https://github.com/futuresimple/android-floating-action-button
 
 ![](https://raw.githubusercontent.com/futuresimple/android-floating-action-button/master/screenshots/menu.gif)
 
 ---
 
-**PersistentSearch **:https://github.com/KieronQuinn/PersistentSearch
+**PersistentSearch**:https://github.com/KieronQuinn/PersistentSearch
 
 ![](https://raw.githubusercontent.com/Quinny898/PersistentSearch/master/resources/search.gif)
 
@@ -32,6 +32,14 @@
 **OriSim3D-Android**:https://github.com/RemiKoutcherawy/OriSim3D-Android
 
 ---
+
+**AVLoadingIndicatorView**:https://github.com/81813780/AVLoadingIndicatorView
+
+![](https://raw.githubusercontent.com/81813780/AVLoadingIndicatorView/master/screenshots/avi.gif)
+
+---
+
+
 
 
 
