@@ -60,8 +60,11 @@
 
 **SuperTextView**: https://github.com/chenBingX/SuperTextView
 
-
 ---
+
+**FileDownLoad下载工具类**: https://github.com/lingochamp/FileDownloader
+
+
 
 
 
