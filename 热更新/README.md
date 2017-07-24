@@ -17,4 +17,10 @@
 
 ---
 
+**tinker-manager**: https://github.com/baidao/tinker-manager/tree/master/patchsdk
+
+
+---
+
+
 
