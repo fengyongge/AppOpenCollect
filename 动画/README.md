@@ -49,6 +49,12 @@
 
 ---
 
+**仿 instagram 和微博的头像点击加载动画**:https://github.com/qintong91/InsLoadingAnimation
+
+---
+
+
+
 
 
 
