@@ -9,6 +9,10 @@
 
 ---
 
+**界面卡顿监测 BlockCanary **:  https://github.com/markzhai/AndroidPerformanceMonitor
+
+---
+
 **Luban**:  https://github.com/Curzibn/Luban
 
 ---
