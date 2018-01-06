@@ -8,9 +8,16 @@
 **ButterKnife**:  https://github.com/JakeWharton/butterknife
 
 ---
+
 **Dagger 2**:  https://github.com/google/dagger
 
 ---
-**EventBus**:  https://github.com/greenrobot/EventBus
+
+**EventBus**: https://github.com/greenrobot/EventBus
 
 ---
+
+**DataBindingDemo**: https://github.com/ConnorLin/DataBindingDemo
+
+---
+
