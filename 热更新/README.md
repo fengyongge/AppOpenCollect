@@ -19,8 +19,12 @@
 
 **tinker-manager**: https://github.com/baidao/tinker-manager/tree/master/patchsdk
 
+---
+
+**补丁增量更新demo**: https://github.com/yale8848/EasyIncrementalUpdate
 
 ---
+
 
 
 
