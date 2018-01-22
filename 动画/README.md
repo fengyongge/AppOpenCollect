@@ -65,6 +65,17 @@
 
 ---
 
+**lottie加载json动画框架**:https://github.com/airbnb/lottie-android
+
+---
+
+**lottie test**:https://github.com/panacena/LottieTest
+
+---
+
+
+
+
 
 
 
