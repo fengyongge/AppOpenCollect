@@ -78,6 +78,11 @@
 
 ---
 
+**可折叠textview**: https://github.com/Manabu-GT/ExpandableTextView
+
+---
+
+
 
 
 
