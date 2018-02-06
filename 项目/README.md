@@ -46,7 +46,7 @@
 
 ---
 
-**BaseRecyclerViewAdapterHelper**:https://github.com/CymChadBaseRecyclerViewAdapterHelper
+**BaseRecyclerViewAdapterHelper**:https://github.com/CymChad/BaseRecyclerViewAdapterHelper/wiki/old_doc-cn
 
 ---
 
