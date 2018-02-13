@@ -21,4 +21,22 @@
 
 ---
 
+**glide-transformations**:  https://github.com/wasabeef/glide-transformations
+
+---
+
+**加载gif**:  https://github.com/koral--/android-gif-drawable
+
+---
+
+**图片裁剪**:  https://github.com/Yalantis/uCrop
+
+---
+
+
+
+
+
+
+
 

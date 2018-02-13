@@ -13,3 +13,21 @@
 
 ---
 
+**RxLifecycle**:  https://github.com/trello/RxLifecycle
+
+---
+
+**RxPermissions**:  https://github.com/tbruyelle/RxPermissions
+
+---
+
+**RxJava-Android-Samples**: https://github.com/kaushikgopal/RxJava-Android-Samples
+
+---
+
+
+
+
+
+
+

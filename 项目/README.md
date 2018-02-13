@@ -5,6 +5,9 @@
 [<==返回首页==](https://github.com/fengyongge/AndroidOpenCollect)
 
 ---
+**app欢迎页面**: https://github.com/apl-devs/AppIntro
+
+---
 
 **app更新**: https://github.com/fengyongge/app_update
 
@@ -49,6 +52,17 @@
 **BaseRecyclerViewAdapterHelper**:https://github.com/CymChad/BaseRecyclerViewAdapterHelper/wiki/old_doc-cn
 
 ---
+
+**文件下载FileDownloader**:https://github.com/lingochamp/FileDownloader
+
+---
+
+**TabLayout指示器**: https://github.com/H07000223/FlycoTabLayout
+
+---
+
+
+
 
 
 
