@@ -57,7 +57,17 @@
 
 ---
 
-**TabLayout指示器**: https://github.com/H07000223/FlycoTabLayout
+**引导图**:https://github.com/hongyangAndroid/Highlight/
+
+---
+
+**各种加密utils**:https://github.com/GcsSloop/encrypt
+
+---
+
+**图形解锁**:https://github.com/aritraroy/PatternLockView
+
+
 
 ---
 
