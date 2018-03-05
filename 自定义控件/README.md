@@ -87,7 +87,14 @@
 ---
 
 **评价星星**: https://github.com/ome450901/SimpleRatingBar
+
 ---
+
+**3d轮播画廊**: https://github.com/moondroid/CoverFlow
+
+---
+
+
 
 
 
