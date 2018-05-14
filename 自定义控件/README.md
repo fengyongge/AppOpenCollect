@@ -94,6 +94,14 @@
 
 ---
 
+**仿魅族Banner**: https://github.com/pinguo-zhouwei/MZBannerView
+
+---
+
+**图片选择和压缩**: https://github.com/crazycodeboy/TakePhoto 
+
+---
+
 
 
 
