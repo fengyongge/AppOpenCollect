@@ -5,9 +5,6 @@
 
 ---
 
-**weex**:  https://github.com/alibaba/weex
-
----
 
 **AndFix**:  https://github.com/alibaba/AndFix
 
@@ -22,6 +19,18 @@
 ---
 
 **补丁增量更新demo**: https://github.com/yale8848/EasyIncrementalUpdate
+
+---
+
+**weex**:  https://github.com/alibaba/weex
+
+---
+
+**react-native**:  https://github.com/facebook/react-native
+
+---
+
+**flutter**:  https://github.com/flutter/flutter
 
 ---
 
