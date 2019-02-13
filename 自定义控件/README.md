@@ -10,6 +10,10 @@
 
 ---
 
+**2个面板滑动效果AndroidSlidingUpPanel**:  https://github.com/zhuchen1109/AndroidSlidingUpPanel
+
+---
+
 **时间选择器**:  https://github.com/JZXiang/TimePickerDialog
 
 ---
