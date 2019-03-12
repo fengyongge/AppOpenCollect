@@ -13,6 +13,10 @@
 
 ---
 
+**RxBinding**: https://github.com/JakeWharton/RxBinding
+
+---
+
 **RxLifecycle**:  https://github.com/trello/RxLifecycle
 
 ---
