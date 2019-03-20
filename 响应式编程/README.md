@@ -25,6 +25,15 @@
 
 ---
 
+**RxBus**:  https://github.com/AndroidKnife/RxBus
+
+---
+
+**EventBus**:  https://github.com/greenrobot/EventBus
+
+---
+
+
 **RxJava-Android-Samples**: https://github.com/kaushikgopal/RxJava-Android-Samples
 
 ---
