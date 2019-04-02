@@ -10,6 +10,12 @@
 
 ---
 
+** imagepicker**:  https://github.com/jeasonlzy/ImagePicker
+
+---
+
+
+
 **2个面板滑动效果AndroidSlidingUpPanel**:  https://github.com/zhuchen1109/AndroidSlidingUpPanel
 
 ---
