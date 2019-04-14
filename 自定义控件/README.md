@@ -14,9 +14,19 @@
 
 ---
 
+**baseadapter**: https://github.com/CymChad/BaseRecyclerViewAdapterHelper 
 
+---
 
 **2个面板滑动效果AndroidSlidingUpPanel**:  https://github.com/zhuchen1109/AndroidSlidingUpPanel
+
+---
+
+**MZBannerView**:  https://github.com/pinguo-zhouwei/MZBannerView
+
+---
+
+**CustomPopwindow**:  https://github.com/pinguo-zhouwei/CustomPopwindow
 
 ---
 
@@ -27,6 +37,11 @@
 **二维码扫描**:  https://github.com/yipianfengye/android-zxingLibrary
 
 ---
+
+**二维码扫描**: cn.bingoogolapple:bga-qrcode-zxing
+
+---
+
 
 **SwitchButton**:  https://github.com/kyleduo/SwitchButton
 
@@ -113,10 +128,6 @@
 ---
 
 **上拉加载**: https://github.com/scwang90/SmartRefreshLayout 
-
----
-
-**baseadapter**: https://github.com/CymChad/BaseRecyclerViewAdapterHelper 
 
 ---
 
