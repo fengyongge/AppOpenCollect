@@ -5,15 +5,12 @@
 
 ---
 
-**Android-Universal-Image-Loader**:  https://github.com/nostra13/Android-Universal-Image-Loader
-
----
-
-**Picasso**:  https://github.com/square/picasso
-
----
 
 **Glide**:  https://github.com/bumptech/glide
+
+---
+
+**Glide图形转换工具**:  https://github.com/wasabeef/glide-transformations
 
 ---
 
@@ -21,7 +18,11 @@
 
 ---
 
-**glide-transformations**:  https://github.com/wasabeef/glide-transformations
+**Picasso**:  https://github.com/square/picasso
+
+---
+
+**Android-Universal-Image-Loader**:  https://github.com/nostra13/Android-Universal-Image-Loader
 
 ---
 
