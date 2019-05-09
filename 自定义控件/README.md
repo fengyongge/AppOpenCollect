@@ -10,7 +10,7 @@
 
 ---
 
-** imagepicker**:  https://github.com/jeasonlzy/ImagePicker
+**imagepicker**:  https://github.com/jeasonlzy/ImagePicker
 
 ---
 

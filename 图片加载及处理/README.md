@@ -34,6 +34,10 @@
 
 ---
 
+**图片缩放**:  https://github.com/chrisbanes/photoview
+
+---
+
 
 
 
