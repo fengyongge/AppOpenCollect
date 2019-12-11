@@ -5,6 +5,10 @@
 
 ---
 
+**aspectjx**:  https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
+
+---
+
 **ButterKnife**:  https://github.com/JakeWharton/butterknife
 
 ---
