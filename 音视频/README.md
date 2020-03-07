@@ -23,6 +23,11 @@
 **视频播放器**:  https://github.com/lipangit/JiaoZiVideoPlayer
 
 ---
+**仿微信拍照Android控件**:  https://github.com/CJT2325/CameraView
+
+---
+
+
 
 
 

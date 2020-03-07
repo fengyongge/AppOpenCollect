@@ -5,6 +5,13 @@
 [<==返回首页==](https://github.com/fengyongge/AndroidOpenCollect)
 
 ---
+**屏幕适配**: https://github.com/ladingwu/dimens_sw
+
+---
+**屏幕适配**: https://github.com/wildma/ScreenAdaptation
+
+---
+
 **app欢迎页面**: https://github.com/apl-devs/AppIntro
 
 ---
