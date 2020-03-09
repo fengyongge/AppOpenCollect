@@ -8,11 +8,11 @@
 
 ---
 
-**视觉处理库 **:  https://github.com/bytedeco/javacv
+**视觉处理库**:  https://github.com/bytedeco/javacv
 
 ---
 
-**推流工具 **:  https://github.com/begeekmyfriend/yasea
+**推流工具**:  https://github.com/begeekmyfriend/yasea
 
 ---
 
