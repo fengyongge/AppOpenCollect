@@ -38,7 +38,7 @@
 
 ---
 
-**二维码扫描**: cn.bingoogolapple:bga-qrcode-zxing
+**二维码扫描**: https://github.com/bingoogolapple/BGAQRCode-Android
 
 ---
 
