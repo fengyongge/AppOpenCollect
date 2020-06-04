@@ -17,10 +17,6 @@
 
 ---
 
-**EventBus**: https://github.com/greenrobot/EventBus
-
----
-
 **DataBindingDemo**: https://github.com/ConnorLin/DataBindingDemo
 
 ---
