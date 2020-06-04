@@ -68,9 +68,6 @@
 
 
 
-
-
-
 **Android工具大全**:https://github.com/XXApple/AndroidLibs
 
 ---
@@ -133,8 +130,13 @@
 ---
 
 
+**adb shell**:  https://github.com/mzlogin/awesome-adb
 
+---
 
+**stetho 测试**:  http://facebook.github.io/stetho/
+
+---
 
 
 
