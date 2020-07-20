@@ -108,6 +108,11 @@
 
 ---
 
+**沉浸式**: https://github.com/gyf-dev/ImmersionBar
+
+---
+
+
 **文件下载FileDownloader**:https://github.com/lingochamp/FileDownloader
 
 ---
