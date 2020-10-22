@@ -1,7 +1,7 @@
-# 依赖注入
+# 依赖注入/编译插桩
 
 
-[<==返回首页==](https://github.com/fengyongge/AndroidOpenCollect)
+[<==返回首页==](https://github.com/fengyongge/Android/AndroidOpenCollect)
 
 ---
 
